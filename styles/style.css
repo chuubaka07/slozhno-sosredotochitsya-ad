@@ -408,13 +408,6 @@
   padding: 0 0 40px 0;
 }
 
-.question__section__image-container {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  margin: 0 10px;
-}
-
 .footer {
   padding: 10px;
   display: flex;
@@ -437,10 +430,6 @@
     font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
   }
 
-.decorative__element {
-    margin: 10px;
-  }
-  
 .question__section__image-container {
   display: flex;
   flex-direction: column;
@@ -454,10 +443,6 @@
   
   .frame::before {
     margin: 10px;
-  }
-  
-.footer__title {
-    font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
   }
 }
 
